@@ -8,10 +8,10 @@ body{
 
 header{
     background: #00398D;
-    position: sticky;
 }
 
 .head{
+    position: sticky;
     display: table;
     margin: 0 auto;
     border-top:solid black;
@@ -36,7 +36,7 @@ header{
     width: 200px;
     text-align: center;
     font-weight: 900;
-    font-size: 1em;
+    font-size: 1.2em;
     vertical-align: middle;
     
 
