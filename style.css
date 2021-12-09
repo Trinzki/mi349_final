@@ -12,6 +12,7 @@ header{
 
 .head{
     background: #00398D;
+    border-radius: 20%;
     display: table;
     margin: 0 auto;
 }
@@ -28,6 +29,7 @@ header{
     margin-left: 60;
     margin-right: 60;
     padding: 10px 120px;
+    border-radius: 20%;
     border: 1px solid black;
     width: 200px;
     text-align: center;
