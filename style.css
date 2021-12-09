@@ -37,7 +37,7 @@ header{
     text-align: center;
     vertical-align: middle;
     font-weight: 900;
-    font-size: 1.2em;
+    font-size: x-large;
 }
 
 /* index.html*/
@@ -53,8 +53,17 @@ header{
 
 .card .avatar{
     border-radius: 50%;
-    margin-top: -50px;
+    margin-top: -150px;
     width: 150px;
     height: 150px;
     box-shadow: rgba(0, 0, 0, 0.1) 0 10px 10px;
+}
+
+.card h1{
+    font-weight: 900;
+}
+
+.card h2{
+    font-weight: 700;
+    font-size: medium;
 }
