@@ -10,6 +10,7 @@ header{
     background: #00398D;
     position: sticky;
     border: 2px solid black;
+    border-radius: 15px;
 }
 
 .head{
@@ -41,7 +42,7 @@ header{
 
 /* index.html*/
 .card{
-    top: 100px;
+    top: 300px;
     background-color: #F4F4F4;
     border-radius: 20px;
     margin: 0 auto;         /*Centers it */
