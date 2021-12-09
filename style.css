@@ -29,7 +29,7 @@ header{
     text-align: center;         /* Also helps to center list*/
     vertical-align: middle;
     width: 300px;
-    padding: 5px, 30px;         /* Added to try and get space between white boxes*/
+    padding: 30px;        /*  Added to try and get space between white boxes*/
     height: 60px;
     line-height: 60px;
     border-radius: 15px;
