@@ -27,16 +27,34 @@ header{
     background-color: #F4F4F4;
     display: inline-block;
     margin: 20px;
-    margin-left: 70;
-    margin-right: 70;
+    margin-left: 60;
+    margin-right: 60;
     height: 40px;
     padding: 10px 120px;
     border-radius: 15px;
     border:3px solid black;
     width: 200px;
     text-align: center;
+    vertical-align: middle;
     font-weight: 900;
     font-size: 1.2em;
-    
+}
 
+/* index.html*/
+.card{
+    background-color: #F4F4F4;
+    border-radius: 15px;
+    margin: 0 auto;
+    width: 400px;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.1) 0 10px 10px;
+    border: 1px solid black;
+}
+
+.card .avatar{
+    border-radius: 50%;
+    margin-top: -50px;
+    width: 150px;
+    height: 150px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0 10px 10px;
 }
