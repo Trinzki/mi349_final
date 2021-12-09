@@ -20,9 +20,9 @@ header{
     padding: 20px;
 }
 
-.head ul li{
+.head li{
+    background-color: #F4F4F4;
     display: inline-block;
     flex: 3;
-    background-color: #F4F4F4;
     margin: 5px;
 }
