@@ -29,7 +29,7 @@ header{
     text-align: center;         /* Also helps to center list*/
     vertical-align: middle;
     width: 200px;
-    height: 40px;
+    height: 60px;
     border-radius: 15px;
     border:3px solid black;
     padding: 0px 30px;
@@ -42,7 +42,7 @@ header{
 }
 
 /* index.html*/
-.card div{
+.card {
     background-color: #F4F4F4;
     border-radius: 20px;
     margin: 0 auto;         /*Centers it */
