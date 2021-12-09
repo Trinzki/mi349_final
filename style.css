@@ -8,8 +8,7 @@ body{
 
 header{
     background: #00398D;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin: 0 auto;
     position: sticky;
     border-top:solid black;
     border-bottom: solid black;
@@ -23,6 +22,7 @@ header{
 .head ul{
     padding-top: 20px;
     list-style-type: none;
+    vertical-align: middle;
 }
 
 .head li{
@@ -45,12 +45,13 @@ header{
 .card{
     background-color: #F4F4F4;
     border-radius: 15px;
-    margin: 0 auto;
+    margin: 0 auto;         /*Centers it */
     width: 400px;
     height: 300px;
     text-align: center;
     box-shadow: rgba(0, 0, 0, 0.1) 0 10px 10px;
     border: 1px solid black;
+    padding-top: 100px;
 }
 
 .card .avatar{
