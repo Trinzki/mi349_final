@@ -24,6 +24,6 @@ header{
 .head li{
     background-color: #F4F4F4;
     display: inline-block;
-    flex: 3;
-    margin: 5px;
+    flex: 1;
+    margin: 20px;
 }
