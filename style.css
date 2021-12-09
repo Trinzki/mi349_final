@@ -24,7 +24,9 @@ header{
 .head li{
     background-color: #F4F4F4;
     display: inline-block;
-    margin: 30px;
+    margin: 20px;
+    margin-left: 30;
+    margin-right: 30;
     padding: 10px 120px;
 
 }
