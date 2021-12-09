@@ -16,7 +16,6 @@ header{
 }
 
 .head ul{
-    display: flex;
     padding: 20px;
     margin: 10px;
 }
@@ -25,6 +24,6 @@ header{
     background-color: #F4F4F4;
     display: inline-block;
     width: 300px;
-    flex: 2;
     margin: 20px;
+
 }
