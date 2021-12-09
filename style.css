@@ -13,8 +13,7 @@ header{
 }
 
 .head{
-    display: table;
-    margin: 0 auto;
+    display: table;             /* Display table and marin: 0 auto together make list centered*/
 }
 
 .head ul{
@@ -25,7 +24,7 @@ header{
 .head li{
     background-color: #F4F4F4;
     display: inline-block;
-    text-align: center;
+    text-align: center;         /* Also helps to center list*/
     vertical-align: middle;
     width: 200px;
 
