@@ -16,7 +16,6 @@ header{
 
 .head{
     display: table;
-
 }
 
 .head ul{
@@ -28,8 +27,6 @@ header{
 .head li{
     background-color: #F4F4F4;
     display: inline-block;
-    margin-left: 60px;
-    margin-right: 60px;
     height: 40px;
     padding: 10px 30px;
     border-radius: 15px;
@@ -44,19 +41,19 @@ header{
 /* index.html*/
 .card{
     background-color: #F4F4F4;
-    border-radius: 15px;
+    border-radius: 20px;
     margin: 0 auto;         /*Centers it */
     width: 400px;
-    height: 300px;
+    padding-top: 0px;
+    height: 200px;
     text-align: center;
     box-shadow: rgba(0, 0, 0, 0.1) 0 10px 10px;
     border: 1px solid black;
-    padding-top: 100px;
 }
 
 .card .avatar{
     border-radius: 50%;
-    margin-top: 100px;
+    margin-top: 0px;
     width: 150px;
     height: 150px;
     box-shadow: rgba(0, 0, 0, 0.1) 0 10px 10px;
