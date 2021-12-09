@@ -8,14 +8,16 @@ body{
 
 header{
     background: #00398D;
+    margin-left: 20px;
+    margin-right: 20px;
+    position: sticky;
+    border-top:solid black;
+    border-bottom: solid black;
 }
 
 .head{
-    position: sticky;
     display: table;
-    margin: 0 auto;
-    border-top:solid black;
-    border-bottom: solid black;
+
 }
 
 .head ul{
@@ -26,17 +28,17 @@ header{
 .head li{
     background-color: #F4F4F4;
     display: inline-block;
-    margin-left: 60;
-    margin-right: 60;
+    margin-left: 60px;
+    margin-right: 60px;
     height: 40px;
-    padding: 10px 120px;
+    padding: 10px 30px;
     border-radius: 15px;
     border:3px solid black;
     width: 200px;
     text-align: center;
     vertical-align: middle;
     font-weight: 900;
-    font-size: x-large;
+    font-size: larger;
 }
 
 /* index.html*/
@@ -45,6 +47,7 @@ header{
     border-radius: 15px;
     margin: 0 auto;
     width: 400px;
+    height: 300px;
     text-align: center;
     box-shadow: rgba(0, 0, 0, 0.1) 0 10px 10px;
     border: 1px solid black;
