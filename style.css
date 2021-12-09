@@ -9,3 +9,18 @@ body{
 header{
     background: #00398D;
 }
+
+.head{
+    list-style-type: none;
+}
+
+.head ul{
+    background: #00398D;
+}
+
+.head li{
+    display: inline-block;
+    background-color: #D6D4D4;
+    padding: 5px;
+    border: 10px;
+}
