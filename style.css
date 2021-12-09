@@ -11,18 +11,21 @@ header{
 }
 
 .head{
-    list-style-type: none;
     background: #00398D;
+    display: table;
+    margin: 0 auto;
 }
 
 .head ul{
     padding: 20px;
+    list-style-type: none;
+    
 }
 
 .head li{
     background-color: #F4F4F4;
     display: inline-block;
     margin: 20px;
-    padding: 10px 155px;
+    padding: 10px 150px;
 
 }
