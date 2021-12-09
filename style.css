@@ -20,8 +20,8 @@ header{
 
 .head ul{
     padding-top: 20px;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
     list-style-type: none;
 }
 
@@ -31,7 +31,7 @@ header{
     text-align: center;         /* Also helps to center list*/
     vertical-align: middle;
     width: 300px;
-    padding: 10px;        /* Added to try and get space between white boxes*/
+    /* padding: 5px;         Added to try and get space between white boxes*/
     height: 60px;
     line-height: 60px;
     border-radius: 15px;
