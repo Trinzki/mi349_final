@@ -11,7 +11,6 @@ header{
     position: sticky;
     border: 2px solid black;
     border-radius: 15px;
-    top: 300px;
 }
 
 .head{
@@ -34,21 +33,22 @@ header{
     border-radius: 15px;
     border:3px solid black;
     padding: 0px 30px;
-
-    /*
     font-weight: 900;
     font-size: larger;
+    
+    /*
+
     */
 }
 
 /* index.html*/
-.card{
+.card div{
     background-color: #F4F4F4;
     border-radius: 20px;
     margin: 0 auto;         /*Centers it */
     width: 400px;
-    padding-top: 0px;
     height: 200px;
+    top: 300px;
     text-align: center;
     box-shadow: rgba(0, 0, 0, 0.1) 0 10px 10px;
     border: 1px solid black;
