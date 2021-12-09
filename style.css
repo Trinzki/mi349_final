@@ -17,12 +17,13 @@ header{
 
 .head ul{
     display: flex;
+    padding: 20px;
 }
 
 .head li{
     display: inline-block;
     flex: 3;
-    background-color: #D6D4D4;
+    background-color: #F4F4F4;
     padding: 5px 10px;
     border: 10px;
 }
