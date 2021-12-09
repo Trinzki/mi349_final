@@ -8,26 +8,28 @@ body{
 
 header{
     background: #00398D;
-    margin: 0 auto;
+    margin: 10px;
     position: sticky;
-    border-top:solid black;
-    border-bottom: solid black;
+    border: 2px solid black;
 }
 
 .head{
     display: table;
+    margin-left: 0 auto;
+    margin-right: 0 auto;
 }
 
 .head ul{
     padding-top: 20px;
     list-style-type: none;
-    vertical-align: middle;
 }
 
 .head li{
     background-color: #F4F4F4;
     display: inline-block;
-    height: 40px;
+    vertical-align: middle;
+    
+    /*height: 40px;
     padding: 10px 30px;
     border-radius: 15px;
     border:3px solid black;
@@ -36,10 +38,12 @@ header{
     vertical-align: middle;
     font-weight: 900;
     font-size: larger;
+    */
 }
 
 /* index.html*/
 .card{
+    top: 100px;
     background-color: #F4F4F4;
     border-radius: 20px;
     margin: 0 auto;         /*Centers it */
