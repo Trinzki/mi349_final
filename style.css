@@ -28,11 +28,11 @@ header{
     display: inline-block;
     text-align: center;         /* Also helps to center list*/
     vertical-align: middle;
-    width: 200px;
+    width: 300px;
     height: 60px;
+    line-height: 55px;
     border-radius: 15px;
     border:3px solid black;
-    padding: 10px 30px;
     font-weight: 900;
     font-size: larger;
     
@@ -42,15 +42,13 @@ header{
 }
 
 /* index.html*/
-.card div{
-    display: flex;
-}
-
 .card {
     background-color: #F4F4F4;
     top: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     border-radius: 20px;
-    flex: 1;
     width: 400px;
     height: 200px;
     text-align: center;
