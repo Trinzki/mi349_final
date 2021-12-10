@@ -14,7 +14,7 @@ header{
 
 .head{
     display: table;             /* Display table and marin: 0 auto together make list centered*/
-    align-content: center;
+    margin: 0 auto;
 }
 
 .head ul{
