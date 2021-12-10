@@ -122,10 +122,12 @@ header{
 .skills-and-traits .skills{
     flex: 1;
     background-color: #F4F4F4;
+    width: 300px;
 }
 
 .skills-and-traits .skills::before{
     content: attr(aria-label);
     background-color: #00398D;
     border: 2px solid black;
+    width: 300px;
 }
