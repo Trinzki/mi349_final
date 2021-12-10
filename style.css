@@ -43,17 +43,20 @@ header{
 /* index.html*/
 .card {
     background-color: #F4F4F4;
-    border-radius: 20px;
-    margin-top: 200px;
-    margin-left: 50%;
     width: 400px;
     height: 200px;
+    margin-top: 200px;
+    margin-left: (50%-200px);  
+
+    border-radius: 20px;
     text-align: center;
     box-shadow: rgba(0, 0, 0, 0.1) 0 10px 10px;
     border: 1px solid black;
 }
 
 .card .avatar{
+    margin-top: -100px;
+
     border-radius: 50%;
     width: 150px;
     height: 150px;
