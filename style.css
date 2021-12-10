@@ -105,3 +105,13 @@ header{
 .resume img{
     border: 2px solid black;
 }
+
+
+/*Technical Information*/
+.skills-and-traits {
+    display: flex;
+}
+
+.skills-and-traits .skills{
+    flex: 1;
+}
