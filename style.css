@@ -146,3 +146,19 @@ header{
 #workexptitle{
     width: 300px;
 }
+
+.Extra{
+    margin: 0 auto;
+    text-align: center;
+    font-weight: 400;
+}
+
+.workexps{
+    display: flex;
+    align-items: center;
+}
+
+.workexps .Work{
+    flex: 1;
+    background-color: #F4F4F4;
+}
