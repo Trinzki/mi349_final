@@ -187,6 +187,7 @@ header{
     border: 2px solid black;
     height: 50px;
     line-height: 50px;
+    padding-bottom: 15px;
 }
 
 .workexps .Work p{
