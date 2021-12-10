@@ -87,7 +87,11 @@ header{
 }
 
 .resume h1{
-    background-color: #F4F4F4;
+    background-color:#00398D;
+    color: white;
+    width: 300px;
+    height: 200px;
+    line-height: 200px;
     border: 2px solid black;
     border-radius: 15px;
     font-weight: 800;
