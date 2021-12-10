@@ -203,12 +203,12 @@ header{
         background-color:#00689b;
     }
 
-    #techinfoh1{
-        width: 40px;
-    }
-
     header{
         background: #00689b;
+    }
+
+    .head{
+        display: flex;
     }
 
     .head li{
@@ -256,11 +256,27 @@ header{
     }
 
 
-    .skills-and-traits .skills p{
-        background-color: #00689b;
+    /* technical */
+
+    #techinfoh1{
+        width: 200px;
     }
 
-    .workexps .Work .company{
+    .skills-and-traits {
+        display:block;
+        align-items: center;
+    }
+    
+    .skills-and-traits .skills{
+        height: 400px;
+        margin-top: 10px;
+        margin-left: 20px;
+        margin-right: 20px;
+        margin-bottom: 20px;
+        border: 1px solid black;
+    }
+    
+    .skills-and-traits .skills p{
         background-color: #00689b;
     }
 }
