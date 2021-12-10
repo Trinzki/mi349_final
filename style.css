@@ -25,10 +25,12 @@ header{
 .head li{
     background-color: #F4F4F4;
     display: inline-block;
+    margin-left: 60px;
+    margin-right: 60px;
     text-align: center;         /* Also helps to center list*/
     vertical-align: middle;
     width: 300px;
-    padding: 5px;         /*Added to try and get space between white boxes*/
+    padding: 5px, 0px; 
     height: 60px;
     line-height: 60px;
     border-radius: 15px;
