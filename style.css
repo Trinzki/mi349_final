@@ -181,11 +181,10 @@ header{
     font-size: large;
     text-align: center;
     font-weight: 600;
-    padding: -20px;
+    margin: -20px;
     border: 2px solid black;
     height: 50px;
     line-height: 50px;
-    margin-top: 0px
 }
 
 .workexps .Work p{
