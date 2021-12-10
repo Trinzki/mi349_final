@@ -43,12 +43,11 @@ header{
 .head ul{
     padding-top: 20px;
     list-style-type: none;
-    display: flex;
+    display: inline-flex;
 }
 
 .head li{
     background-color: #F4F4F4;
-    display: inline-flex;
     flex: 1;
     text-align: center;
     vertical-align: middle;
