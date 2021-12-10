@@ -166,7 +166,7 @@ header{
 .workexps .Work{
     flex: 1;
     background-color: #F4F4F4;
-    height: 400px;
+    height: 450px;
     margin-top: 30px;
     margin-left: 50px;
     margin-right: 50px;
@@ -180,7 +180,7 @@ header{
     background-color: #00398D;
     color: #F4F4F4;
     height: 50px;
-    margin: -20px;
+    margin: -10px;
     line-height: 50px;
     font-size: large;
     font-weight: 600;
@@ -191,7 +191,7 @@ header{
 
 .workexps .Work p{
     text-align: left;
-    padding-top: 10px;
+    padding-top: 5px;
 }
 
 
