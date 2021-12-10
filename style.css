@@ -181,7 +181,7 @@ header{
     font-size: large;
     text-align: center;
     font-weight: 600;
-    padding: 0px;
+    padding: -20px;
     border: 2px solid black;
     height: 50px;
     line-height: 50px;
