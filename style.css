@@ -33,6 +33,7 @@ header{
     background: #00398D;
     border: 2px solid black;
     border-radius: 15px;
+    height: 60px;
 }
 
 .head{
@@ -65,7 +66,7 @@ header{
 /* index.html*/
 .card {
     background-color: #F4F4F4;
-    width: 400px;
+    width: 500px;
     height: 300px;
     margin: 0 auto;
     margin-top: 200px;
