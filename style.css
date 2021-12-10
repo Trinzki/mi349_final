@@ -9,6 +9,8 @@ body{
 .titleh1{
     background-color:#00398D;
     color: white;
+    align-items: center;
+    text-align: center;
     width: 150px;
     height: 50px;
     line-height: 50px;
@@ -108,6 +110,10 @@ header{
 
 
 /*Technical Information*/
+#techinfoh1{
+    width: 300px;
+}
+
 .skills-and-traits {
     display: flex;
 }
@@ -115,3 +121,4 @@ header{
 .skills-and-traits .skills{
     flex: 1;
 }
+
