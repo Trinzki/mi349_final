@@ -6,7 +6,7 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.titleh1{
+.titleh{
     background-color:#00398D;
     color: white;
     align-items: center;
@@ -116,9 +116,16 @@ header{
 
 .skills-and-traits {
     display: flex;
+    align-items: center;
 }
 
 .skills-and-traits .skills{
     flex: 1;
+    background-color: #F4F4F4;
 }
 
+.skills-and-traits .skills::before{
+    content: attr(aria-label);
+    background-color: #00398D;
+    border: 2px solid black;
+}
