@@ -82,7 +82,8 @@ header{
 /* Resume */
 .resume{
     margin: 0 auto;
-    width: 150px;
+    align-items: center;
+    text-align: center;
 }
 
 .resume h1{
