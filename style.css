@@ -117,12 +117,12 @@ header{
 .skills-and-traits {
     display: flex;
     align-items: center;
+    padding: 100px;
 }
 
 .skills-and-traits .skills{
     flex: 1;
     background-color: #F4F4F4;
-    padding: 100px;
 }
 
 .skills-and-traits .skills p{
