@@ -266,7 +266,7 @@ header{
     }
     
     .skills-and-traits .skills{
-        height: 400px;
+        height: 300px;
         margin-top: 10px;
         margin-left: 20px;
         margin-right: 20px;
@@ -285,7 +285,7 @@ header{
     
     .workexps .Work{
         background-color: #F4F4F4;
-        height: 700px;
+        height: 600px;
         margin-top: 10px;
         margin-left: 20px;
         margin-right: 20px;
@@ -299,8 +299,8 @@ header{
         background-color: #00689b;
         color: #F4F4F4;
         height: 50px;
-        margin-left: -22px;
-        margin-right: -22px;
+        margin-left: 0px;
+        margin-right: 0px;
         margin-top: 0px;
         margin-bottom: 10px;
         line-height: 50px;
