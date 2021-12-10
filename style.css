@@ -134,13 +134,13 @@ header{
     background-color: #00398D;
     color: #F4F4F4;
     align-self: center;
-    margin-top: -15px;
+    margin-top: -10px;
     height: 50px;
     line-height: 50px;
     text-align: center;
     font-size: large;
     font-weight: 600;
-    border: 3px solid black;
+    border: 2px solid black;
 }
 
 #workexptitle{
