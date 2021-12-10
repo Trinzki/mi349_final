@@ -72,8 +72,10 @@ header{
 
 .card .contacts{
     list-style-type: none;
-    width: 75%;
-    height: 75%;
+    border: 2px solid black;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
     margin: 0 auto;
-    margin-left: -(0.5*width);
+    margin-left: -50px;
 }
