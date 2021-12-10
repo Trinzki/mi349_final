@@ -180,7 +180,10 @@ header{
     background-color: #00398D;
     color: #F4F4F4;
     height: 50px;
-    margin: -10px;
+    margin-left: -20px;
+    margin-right: -20px;
+    margin-top: 0px;
+    margin-bottom: 10px;
     line-height: 50px;
     font-size: large;
     font-weight: 600;
@@ -191,7 +194,7 @@ header{
 
 .workexps .Work p{
     text-align: left;
-    padding-top: 5px;
+    padding-top: 10px;
 }
 
 
