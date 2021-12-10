@@ -125,6 +125,13 @@ header{
     width: 300px;
 }
 
+.skills-and-traits .skills p{
+    background-color: #00398D;
+    color: #F4F4F4;
+    align-self: center;
+
+}
+
 #workexptitle{
     width: 300px;
 }
