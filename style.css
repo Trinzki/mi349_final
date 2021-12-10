@@ -36,18 +36,19 @@ header{
 }
 
 .head{
-    display: table;             /* Display table and marin: 0 auto together make list centered*/
+    /*display: table;             Display table and marin: 0 auto together make list centered*/
     margin: 0 auto;
 }
 
 .head ul{
     padding-top: 20px;
     list-style-type: none;
+    display: flex;
 }
 
 .head li{
     background-color: #F4F4F4;
-    display: inline-block;
+    flex: 1;
     margin-left: 67px;
     margin-right: 65px;
     text-align: center;         /* Also helps to center list*/
