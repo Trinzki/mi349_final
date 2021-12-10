@@ -200,11 +200,11 @@ header{
 @media (max-width: 400px){
     
     .titleh{
-        background-color:#00689b;
+        background-color:#72009b;
     }
 
     header{
-        background: #00689b;
+        background: #72009b;
     }
 
     .head{
@@ -275,7 +275,7 @@ header{
     }
     
     .skills-and-traits .skills p{
-        background-color: #00689b;
+        background-color: #72009b;
     }
 
     .workexps{
@@ -296,7 +296,7 @@ header{
     }
     
     .workexps .Work .company{
-        background-color: #00689b;
+        background-color: #72009b;
         color: #F4F4F4;
         height: 50px;
         margin-left: 0px;
