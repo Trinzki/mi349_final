@@ -36,7 +36,7 @@ header{
 }
 
 .head{
-    /*display: table;             Display table and marin: 0 auto together make list centered*/
+    display: table;            /* Display table and marin: 0 auto together make list centered*/
     margin: 0 auto;
 }
 
@@ -47,11 +47,13 @@ header{
 
 .head li{
     background-color: #F4F4F4;
-    display: inline-flex;
-    flex: 1;
-    text-align: center;
+    display: inline-block;
+    margin-left: 67px;
+    margin-right: 65px;
+    text-align: center;         /* Also helps to center list*/
     vertical-align: middle;
     width: 300px;
+    padding: 5px, 0px; 
     height: 55px;
     line-height: 55px;
     border-radius: 15px;
