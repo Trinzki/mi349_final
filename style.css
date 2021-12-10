@@ -117,12 +117,12 @@ header{
 .skills-and-traits {
     display: flex;
     align-items: center;
-    vertical-align: top;
 }
 
 .skills-and-traits .skills{
     flex: 1;
     background-color: #F4F4F4;
+    height: 400px;
     margin: 50px;
 }
 
@@ -131,6 +131,7 @@ header{
     color: #F4F4F4;
     align-self: center;
     height: 50px;
+    margin-top: -15px;
 }
 
 #workexptitle{
