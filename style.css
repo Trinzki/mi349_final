@@ -50,12 +50,9 @@ header{
     background-color: #F4F4F4;
     display: inline-flex;
     flex: 1;
-    margin-left: 67px;
-    margin-right: 65px;
-    text-align: center;         /* Also helps to center list*/
+    text-align: center;
     vertical-align: middle;
     width: 300px;
-    padding: 5px, 0px; 
     height: 55px;
     line-height: 55px;
     border-radius: 15px;
